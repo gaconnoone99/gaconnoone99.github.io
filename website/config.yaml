@@ -31,8 +31,8 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
-  profession: "Profession"
+  name: "Duong Xuan Manh"
+  profession: "QA Engineer"
   github: "https://github.com/gaconnoone99/"
   linkedin: "https://www.linkedin.com/in/frenda-malaka-675a8221a/"
   twitter: "https://twitter.com/yuukifrenda"
@@ -45,7 +45,7 @@ params:
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: QA/AC testing
-      percentage: 90
+      percentage: 85
     - name: Information security
       percentage: 60
     - name: Web Dev
@@ -56,7 +56,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-      - company: "OPSWAT"
+    - company: "OPSWAT"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Associate QA engineer"
       startdate: Aug 2021
@@ -72,11 +72,11 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
+    - company: "Testio/Utest"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "Freelance Tester"
+      startdate: Mar 2021
+      enddate: present
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
