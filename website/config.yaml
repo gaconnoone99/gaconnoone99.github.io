@@ -20,7 +20,7 @@ enableEmoji: true
 params:
   version: 3
 
-  favicon: "/images/fav.png"
+  favicon: "/images/logo.jpg"
   description: ""
 
   # Navbar Menus
@@ -31,7 +31,7 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Dương Xuân Mạnh"
+  name: "Duong Xuan Manh"
   profession: "QA Engineer"
   github: "https://github.com/gaconnoone99/"
   linkedin: "https://www.linkedin.com/in/frenda-malaka-675a8221a/"
@@ -72,7 +72,7 @@ params:
       featuredpoints:
         - point: Learn the basics of QA and website security.
         - point: Test the functionality of websites on PC devices.
-    - company: "Testio/Utest"
+    - company: "Testio-Utest"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Freelance Tester"
       startdate: Mar 2021
