@@ -62,46 +62,41 @@ params:
       startdate: Aug 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Check functionality and quality of security software products (Metadefender Core).
+        - point: Improving software development processes.
     - company: CNSC"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Internship tester"
       startdate: Mar 2021
       enddate: Jul 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Learn the basics of QA and website security.
+        - point: Test the functionality of websites on PC devices.
     - company: "Testio/Utest"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Freelance Tester"
       startdate: Mar 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Test the functionality of websites on mobile devices.
+        - point: Test the functionality of websites on PC devices.
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
+    - degree: "Security engineering"
       branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
+      university: "University of Information Technology"
+      startedyear: "2017"
+      graduation: "2021"
     - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+      branch: "Physics"
+      university: "Vinh University's specialized school"
+      startedyear: "2014"
+      graduation: "2017"
 
   # Projects
-  disable_projects: false
+  disable_projects: true
   projects:
     - name: "Example project without details"
       img: /images/project.jpg
@@ -110,7 +105,7 @@ params:
       description: "Description of project"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
