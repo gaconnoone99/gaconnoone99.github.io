@@ -21,7 +21,7 @@ params:
   version: 3
 
   favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: ""
 
   # Navbar Menus
   customMenus:
@@ -31,7 +31,7 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Duong Xuan Manh"
+  name: "Dương Xuân Mạnh"
   profession: "QA Engineer"
   github: "https://github.com/gaconnoone99/"
   linkedin: "https://www.linkedin.com/in/frenda-malaka-675a8221a/"
@@ -41,10 +41,10 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Manh, a passionate QA Engineer. The ultimate purpose of software testing is not to find bugs but to make the product qualitative."
+  descripe_l2_person: "As a tester, you are contributing to improvements in product quality. You can find my works [here](#projects)"
   skills:
-    - name: QA/AC testing
+    - name: Manaul testing
       percentage: 85
     - name: Information security
       percentage: 60
@@ -64,7 +64,7 @@ params:
       featuredpoints:
         - point: Check functionality and quality of security software products (Metadefender Core).
         - point: Improving software development processes.
-    - company: CNSC"
+    - company: "CNSC"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Internship tester"
       startdate: Mar 2021
